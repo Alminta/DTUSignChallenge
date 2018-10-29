@@ -20,8 +20,6 @@ import colorsys
 from matplotlib.pyplot import figure
 
 
-print('hello')
-
 
 listdir('Data')
 
